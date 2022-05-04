@@ -6,8 +6,8 @@ My name is Gabriel Tomberlin. I'm currently an Information Security Engineer wit
 - 🍞 Bread and butter: &nbsp;<b>Python</b>
 - 📝 Currently learning: &nbsp;<b>MLOps</b> & <b>ML Engineering</b>
 - 🛠️ In-progress self-learning/courses (as of 5/4/2022):
-  - Udacity: &nbsp;Machine Learning DevOps Engineer Nanodegree
-  - Coursera: &nbsp;MLOps Engineering for Production
+  - Udacity: &nbsp;Machine Learning DevOps Engineer Nanodegree (31.25% complete)
+  - Coursera: &nbsp;MLOps Engineering for Production (25% complete)
   - Fast.ai: &nbsp;Practical Deep Learning for Coders
 - 🤔 Personal interests: &nbsp;ML & brain-inspired AI, MLOps, computational neuroscience, reinforcement learning, AGI & theories of consciousness, game development
 - 🧠 My neuroscience/brain-inspired AI/ML book list: &nbsp;https://www.amazon.com/hz/wishlist/ls/1ZQYV6BRDHO6T
