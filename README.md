@@ -19,8 +19,3 @@ My name is Gabriel Tomberlin. I'm currently an Information Security Engineer wit
   - gabrieltomberlin14@gmail.com
   - https://www.linkedin.com/in/gabriel-tomberlin/
   - https://twitter.com/GabrielTomberl1
-
-</br>
-<p align="center" width="100%">
-    <img width="40%" src="https://user-images.githubusercontent.com/25640614/166821635-61d37a1a-aacc-4616-87f3-70a78f778284.jpg"> 
-</p>
